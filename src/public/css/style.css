@@ -301,3 +301,7 @@ select {
 .show {
     display: block;
 }
+
+td{
+    height: 49px;
+}
